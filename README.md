@@ -1,1 +1,1 @@
-# IoT
+ALat yang digunakan yaitu SBC, kipas angin, motion sensor, dan pintu. Kesimpulan dari praktikum simulasi arsitektur IoT ini adalah jika sebuah motion sensor menerima sinyal sebuah gerakan maka pintu akan terbuka dan kipas angin secara otomatis akan menyala, lalu apabila sudah tidak mendapat sinyal maka pintu akan tertutup dan kipas angin mati.
